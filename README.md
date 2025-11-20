@@ -7,7 +7,8 @@ An overview of a lightweight Bash-based system monitor
 
 ### Abstract
 
-`SystemMetricsPanel` is a self-contained Bash module for low-overhead observation of host-level performance indicators over Bash shell.  
+<a href="https://raw.githubusercontent.com/michele-tn/SystemMetricsPanel/main/SystemMetricsPanel.tar.xz
+">`SystemMetricsPanel`</a> is a self-contained Bash module for low-overhead observation of host-level performance indicators over Bash shell.  
 Originally implemented as a single-line “monitoring bar,” the system has evolved into a **multi-line framed dashboard**, providing a clearer and more expressive representation of system state while maintaining minimal resource consumption.
 
 It exposes two complementary execution modes:
